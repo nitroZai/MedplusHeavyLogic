@@ -1,0 +1,18 @@
+
+1. Take Vehicles
+    Define Generic variables
+
+2. Inherit Bikes, Cars, Buses with Default values
+
+3. Define a Parking Lot and give a default of length 10, 3 for Bikes, 1 Bus, 6 Cars
+
+
+Output:
+1. Allocate
+    a. Type of Vehicle
+    b. Vehicle Number
+2. De-Allocate
+    b. Vehicle Number
+3. Exit
+
+Write every operation onto CSV: Write the data into CSV
